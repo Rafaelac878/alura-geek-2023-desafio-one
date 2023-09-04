@@ -1,7 +1,7 @@
 # alura-geek-2023-desafio-one
 alura-geek-2023-desafio-one
 
-Acesse o site aqui:
+Acesse o site aqui: http://blogalurageek.com/
 
 Sobre o desafio:
 
